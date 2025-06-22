@@ -6,7 +6,7 @@ covered by 向恒
 
 ## 技术栈
 
-前端：vue
+前端：python ,vue
 
 后端：Django restframework
 

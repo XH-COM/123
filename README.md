@@ -1,4 +1,4 @@
-# ImageProcess
+# ImageProcess(基于 Python 的数字图像处理项目)
 covered by 向恒
 ## 简介
 

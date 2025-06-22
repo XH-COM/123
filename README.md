@@ -6,9 +6,9 @@ covered by 向恒
 
 ## 技术栈
 
-前端：python ,vue
+前端：vue
 
-后端：Django restframework
+后端：Django restframework(python框架)
 
 数据库：Django自带的sqlite
 
